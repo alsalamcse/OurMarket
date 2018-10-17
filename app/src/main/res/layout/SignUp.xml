@@ -7,7 +7,7 @@
     tools:context=".taskFragments.dummy.SignUp">
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/firstName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -17,7 +17,7 @@
         tools:layout_editor_absoluteY="54dp" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/Lastname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -27,7 +27,7 @@
         tools:layout_editor_absoluteY="127dp" />
 
     <EditText
-        android:id="@+id/editText5"
+        android:id="@+id/Email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -37,7 +37,7 @@
         tools:layout_editor_absoluteY="195dp" />
 
     <EditText
-        android:id="@+id/editText6"
+        android:id="@+id/password"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"

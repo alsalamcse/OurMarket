@@ -38,7 +38,7 @@
         android:layout_height="43dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="PAssword"
+        android:text="Password"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="110dp" />
 </android.support.constraint.ConstraintLayout>
